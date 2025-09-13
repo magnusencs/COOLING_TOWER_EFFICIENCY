@@ -8,9 +8,8 @@ Input three parameters:
 Inlet water temperature (°C)
 Outlet water temperature (°C)
 Wet bulb temperature (°C)
-Calculate efficiency using the formula:
+<img width="233" height="98" alt="image" src="https://github.com/user-attachments/assets/0aa89f62-0d72-4a2c-a165-57fe4687a4e1" />
 
-[ \text{Efficiency} = \frac{T_{in} - T_{out}}{T_{in} - T_{wb}} \times 100 ]
 
 Displays the result in percentage.
 
